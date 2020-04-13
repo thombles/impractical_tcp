@@ -1,0 +1,9 @@
+[package]
+name = "impractical_tcp"
+version = "0.1.0"
+authors = ["Thomas Karpiniec <tom.karpiniec@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.11"
+socket2 = "0.3.11"
